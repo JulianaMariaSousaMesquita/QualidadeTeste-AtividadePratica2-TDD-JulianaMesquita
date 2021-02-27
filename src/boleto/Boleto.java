@@ -1,4 +1,6 @@
 package boleto;
+import java.util.ArrayList;
+import java.util.Date;
 
 public class Boleto {
 	private int codigo;
